@@ -44,7 +44,6 @@ app.use(
       baseURL: APP_URL,
    })
 );
-
 const expenses = [
   {
     date: new Date(),
